@@ -1,5 +1,4 @@
 
-Certainly! Here's a suggested README file content for your Flutter project:
 
 Flutter App
 Welcome to my Flutter project! 🚀
