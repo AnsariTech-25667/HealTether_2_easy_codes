@@ -1,5 +1,3 @@
-
-
 Flutter App
 Welcome to my Flutter project! 🚀
 
